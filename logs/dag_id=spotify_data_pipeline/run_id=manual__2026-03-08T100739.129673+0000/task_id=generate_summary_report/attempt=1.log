@@ -1,0 +1,21 @@
+[2026-03-08T10:07:51.093+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-03-08T10:07:51.135+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: spotify_data_pipeline.generate_summary_report manual__2026-03-08T10:07:39.129673+00:00 [queued]>
+[2026-03-08T10:07:51.153+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: spotify_data_pipeline.generate_summary_report manual__2026-03-08T10:07:39.129673+00:00 [queued]>
+[2026-03-08T10:07:51.156+0000] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2026-03-08T10:07:51.196+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): generate_summary_report> on 2026-03-08 10:07:39.129673+00:00
+[2026-03-08T10:07:51.228+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'spotify_data_pipeline', 'generate_summary_report', 'manual__2026-03-08T10:07:39.129673+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/spotify_pipeline.py', '--cfg-path', '/tmp/tmp_revpzdq']
+[2026-03-08T10:07:51.233+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=904) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2026-03-08T10:07:51.238+0000] {standard_task_runner.py:91} INFO - Job 11: Subtask generate_summary_report
+[2026-03-08T10:07:51.248+0000] {standard_task_runner.py:63} INFO - Started process 943 to run task
+[2026-03-08T10:07:51.440+0000] {task_command.py:426} INFO - Running <TaskInstance: spotify_data_pipeline.generate_summary_report manual__2026-03-08T10:07:39.129673+00:00 [running]> on host dee41b2d6021
+[2026-03-08T10:07:51.618+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='arman' AIRFLOW_CTX_DAG_ID='spotify_data_pipeline' AIRFLOW_CTX_TASK_ID='generate_summary_report' AIRFLOW_CTX_EXECUTION_DATE='2026-03-08T10:07:39.129673+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-08T10:07:39.129673+00:00'
+[2026-03-08T10:07:51.621+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-03-08T10:07:51.672+0000] {logging_mixin.py:188} INFO - Summary report saved to /tmp/summary_report.txt
+[2026-03-08T10:07:51.673+0000] {python.py:237} INFO - Done. Returned value was: None
+[2026-03-08T10:07:51.674+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-03-08T10:07:51.691+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=spotify_data_pipeline, task_id=generate_summary_report, execution_date=20260308T100739, start_date=20260308T100751, end_date=20260308T100751
+[2026-03-08T10:07:51.755+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-03-08T10:07:51.782+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-03-08T10:07:51.785+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

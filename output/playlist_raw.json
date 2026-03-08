@@ -1,0 +1,402 @@
+[
+    {
+        "track_name":"Kesariya",
+        "artist_name":"Arijit Singh",
+        "album_name":"Brahmastra",
+        "popularity":90,
+        "duration_ms":245000,
+        "release_date":"2022-09-09"
+    },
+    {
+        "track_name":"Tum Hi Ho",
+        "artist_name":"Arijit Singh",
+        "album_name":"Aashiqui 2",
+        "popularity":95,
+        "duration_ms":262000,
+        "release_date":"2013-04-26"
+    },
+    {
+        "track_name":"Blinding Lights",
+        "artist_name":"The Weeknd",
+        "album_name":"After Hours",
+        "popularity":98,
+        "duration_ms":200040,
+        "release_date":"2020-03-20"
+    },
+    {
+        "track_name":"Shape of You",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Divide",
+        "popularity":97,
+        "duration_ms":233712,
+        "release_date":"2017-01-06"
+    },
+    {
+        "track_name":"Levitating",
+        "artist_name":"Dua Lipa",
+        "album_name":"Future Nostalgia",
+        "popularity":91,
+        "duration_ms":203000,
+        "release_date":"2020-03-27"
+    },
+    {
+        "track_name":"Stay",
+        "artist_name":"The Kid LAROI",
+        "album_name":"F*CK LOVE 3",
+        "popularity":92,
+        "duration_ms":141806,
+        "release_date":"2021-07-09"
+    },
+    {
+        "track_name":"Perfect",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Divide",
+        "popularity":93,
+        "duration_ms":263400,
+        "release_date":"2017-03-03"
+    },
+    {
+        "track_name":"Believer",
+        "artist_name":"Imagine Dragons",
+        "album_name":"Evolve",
+        "popularity":94,
+        "duration_ms":204346,
+        "release_date":"2017-02-01"
+    },
+    {
+        "track_name":"Senorita",
+        "artist_name":"Shawn Mendes",
+        "album_name":"Shawn Mendes",
+        "popularity":89,
+        "duration_ms":191000,
+        "release_date":"2019-06-21"
+    },
+    {
+        "track_name":"Dance Monkey",
+        "artist_name":"Tones and I",
+        "album_name":"The Kids Are Coming",
+        "popularity":88,
+        "duration_ms":209438,
+        "release_date":"2019-05-10"
+    },
+    {
+        "track_name":"Raabta",
+        "artist_name":"Arijit Singh",
+        "album_name":"Agent Vinod",
+        "popularity":86,
+        "duration_ms":242000,
+        "release_date":"2012-03-02"
+    },
+    {
+        "track_name":"Apna Bana Le",
+        "artist_name":"Arijit Singh",
+        "album_name":"Bhediya",
+        "popularity":87,
+        "duration_ms":230000,
+        "release_date":"2022-11-25"
+    },
+    {
+        "track_name":"Channa Mereya",
+        "artist_name":"Arijit Singh",
+        "album_name":"Ae Dil Hai Mushkil",
+        "popularity":92,
+        "duration_ms":289000,
+        "release_date":"2016-10-28"
+    },
+    {
+        "track_name":"Kalank Title Track",
+        "artist_name":"Arijit Singh",
+        "album_name":"Kalank",
+        "popularity":84,
+        "duration_ms":312000,
+        "release_date":"2019-04-17"
+    },
+    {
+        "track_name":"Phir Le Aya Dil",
+        "artist_name":"Arijit Singh",
+        "album_name":"Barfi",
+        "popularity":82,
+        "duration_ms":260000,
+        "release_date":"2012-09-14"
+    },
+    {
+        "track_name":"Sunflower",
+        "artist_name":"Post Malone",
+        "album_name":"Hollywood's Bleeding",
+        "popularity":94,
+        "duration_ms":158040,
+        "release_date":"2019-09-06"
+    },
+    {
+        "track_name":"Rockstar",
+        "artist_name":"Post Malone",
+        "album_name":"Beerbongs & Bentleys",
+        "popularity":93,
+        "duration_ms":218000,
+        "release_date":"2018-04-27"
+    },
+    {
+        "track_name":"Happier",
+        "artist_name":"Marshmello",
+        "album_name":"Joytime II",
+        "popularity":90,
+        "duration_ms":214000,
+        "release_date":"2018-08-17"
+    },
+    {
+        "track_name":"Faded",
+        "artist_name":"Alan Walker",
+        "album_name":"Different World",
+        "popularity":91,
+        "duration_ms":212000,
+        "release_date":"2015-12-03"
+    },
+    {
+        "track_name":"Closer",
+        "artist_name":"The Chainsmokers",
+        "album_name":"Collage",
+        "popularity":92,
+        "duration_ms":244960,
+        "release_date":"2016-07-29"
+    },
+    {
+        "track_name":"Bad Guy",
+        "artist_name":"Billie Eilish",
+        "album_name":"When We All Fall Asleep",
+        "popularity":94,
+        "duration_ms":194000,
+        "release_date":"2019-03-29"
+    },
+    {
+        "track_name":"Lovely",
+        "artist_name":"Billie Eilish",
+        "album_name":"Dont Smile At Me",
+        "popularity":89,
+        "duration_ms":201000,
+        "release_date":"2018-04-19"
+    },
+    {
+        "track_name":"Peaches",
+        "artist_name":"Justin Bieber",
+        "album_name":"Justice",
+        "popularity":88,
+        "duration_ms":198000,
+        "release_date":"2021-03-19"
+    },
+    {
+        "track_name":"Sorry",
+        "artist_name":"Justin Bieber",
+        "album_name":"Purpose",
+        "popularity":90,
+        "duration_ms":200000,
+        "release_date":"2015-10-23"
+    },
+    {
+        "track_name":"Love Yourself",
+        "artist_name":"Justin Bieber",
+        "album_name":"Purpose",
+        "popularity":89,
+        "duration_ms":233000,
+        "release_date":"2015-11-13"
+    },
+    {
+        "track_name":"Heat Waves",
+        "artist_name":"Glass Animals",
+        "album_name":"Dreamland",
+        "popularity":92,
+        "duration_ms":238000,
+        "release_date":"2020-06-29"
+    },
+    {
+        "track_name":"Industry Baby",
+        "artist_name":"Lil Nas X",
+        "album_name":"Montero",
+        "popularity":91,
+        "duration_ms":212000,
+        "release_date":"2021-07-23"
+    },
+    {
+        "track_name":"Old Town Road",
+        "artist_name":"Lil Nas X",
+        "album_name":"7 EP",
+        "popularity":93,
+        "duration_ms":157000,
+        "release_date":"2019-03-14"
+    },
+    {
+        "track_name":"Montero",
+        "artist_name":"Lil Nas X",
+        "album_name":"Montero",
+        "popularity":90,
+        "duration_ms":137000,
+        "release_date":"2021-03-26"
+    },
+    {
+        "track_name":"Circles",
+        "artist_name":"Post Malone",
+        "album_name":"Hollywood's Bleeding",
+        "popularity":94,
+        "duration_ms":215000,
+        "release_date":"2019-08-30"
+    },
+    {
+        "track_name":"Shivers",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Equals",
+        "popularity":90,
+        "duration_ms":207000,
+        "release_date":"2021-09-10"
+    },
+    {
+        "track_name":"Bad Habits",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Equals",
+        "popularity":91,
+        "duration_ms":231000,
+        "release_date":"2021-06-25"
+    },
+    {
+        "track_name":"Thinking Out Loud",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Multiply",
+        "popularity":92,
+        "duration_ms":281000,
+        "release_date":"2014-06-20"
+    },
+    {
+        "track_name":"Photograph",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Multiply",
+        "popularity":88,
+        "duration_ms":258000,
+        "release_date":"2014-06-20"
+    },
+    {
+        "track_name":"Galway Girl",
+        "artist_name":"Ed Sheeran",
+        "album_name":"Divide",
+        "popularity":87,
+        "duration_ms":170000,
+        "release_date":"2017-03-03"
+    },
+    {
+        "track_name":"Attention",
+        "artist_name":"Charlie Puth",
+        "album_name":"Voicenotes",
+        "popularity":89,
+        "duration_ms":208000,
+        "release_date":"2018-05-11"
+    },
+    {
+        "track_name":"See You Again",
+        "artist_name":"Wiz Khalifa",
+        "album_name":"Furious 7",
+        "popularity":93,
+        "duration_ms":229000,
+        "release_date":"2015-03-10"
+    },
+    {
+        "track_name":"Counting Stars",
+        "artist_name":"OneRepublic",
+        "album_name":"Native",
+        "popularity":90,
+        "duration_ms":257000,
+        "release_date":"2013-06-14"
+    },
+    {
+        "track_name":"Apologize",
+        "artist_name":"OneRepublic",
+        "album_name":"Dreaming Out Loud",
+        "popularity":85,
+        "duration_ms":208000,
+        "release_date":"2007-11-20"
+    },
+    {
+        "track_name":"Secrets",
+        "artist_name":"OneRepublic",
+        "album_name":"Waking Up",
+        "popularity":86,
+        "duration_ms":224000,
+        "release_date":"2009-11-17"
+    },
+    {
+        "track_name":"Viva La Vida",
+        "artist_name":"Coldplay",
+        "album_name":"Viva La Vida",
+        "popularity":91,
+        "duration_ms":242000,
+        "release_date":"2008-05-25"
+    },
+    {
+        "track_name":"Paradise",
+        "artist_name":"Coldplay",
+        "album_name":"Mylo Xyloto",
+        "popularity":90,
+        "duration_ms":278000,
+        "release_date":"2011-10-24"
+    },
+    {
+        "track_name":"Yellow",
+        "artist_name":"Coldplay",
+        "album_name":"Parachutes",
+        "popularity":88,
+        "duration_ms":269000,
+        "release_date":"2000-07-10"
+    },
+    {
+        "track_name":"Hymn For The Weekend",
+        "artist_name":"Coldplay",
+        "album_name":"A Head Full of Dreams",
+        "popularity":89,
+        "duration_ms":258000,
+        "release_date":"2016-01-25"
+    },
+    {
+        "track_name":"Adventure of a Lifetime",
+        "artist_name":"Coldplay",
+        "album_name":"A Head Full of Dreams",
+        "popularity":87,
+        "duration_ms":263000,
+        "release_date":"2015-11-06"
+    },
+    {
+        "track_name":"Let Her Go",
+        "artist_name":"Passenger",
+        "album_name":"All the Little Lights",
+        "popularity":90,
+        "duration_ms":252000,
+        "release_date":"2012-02-24"
+    },
+    {
+        "track_name":"Riptide",
+        "artist_name":"Vance Joy",
+        "album_name":"Dream Your Life Away",
+        "popularity":88,
+        "duration_ms":204000,
+        "release_date":"2013-03-22"
+    },
+    {
+        "track_name":"Ho Hey",
+        "artist_name":"The Lumineers",
+        "album_name":"The Lumineers",
+        "popularity":85,
+        "duration_ms":163000,
+        "release_date":"2012-04-03"
+    },
+    {
+        "track_name":"Take Me To Church",
+        "artist_name":"Hozier",
+        "album_name":"Hozier",
+        "popularity":92,
+        "duration_ms":241000,
+        "release_date":"2013-09-13"
+    },
+    {
+        "track_name":"Someone You Loved",
+        "artist_name":"Lewis Capaldi",
+        "album_name":"Divinely Uninspired",
+        "popularity":94,
+        "duration_ms":182000,
+        "release_date":"2018-11-08"
+    }
+]

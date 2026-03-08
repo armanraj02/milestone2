@@ -1,0 +1,42 @@
+Spotify Playlist Summary Report
+===============================
+
+Tracks per Artist:
+artist_name
+Ed Sheeran          7
+Arijit Singh        7
+Coldplay            5
+Lil Nas X           3
+Post Malone         3
+Justin Bieber       3
+OneRepublic         3
+Billie Eilish       2
+Vance Joy           1
+Tones and I         1
+The Weeknd          1
+The Lumineers       1
+The Kid LAROI       1
+The Chainsmokers    1
+Shawn Mendes        1
+Alan Walker         1
+Passenger           1
+Marshmello          1
+Lewis Capaldi       1
+Imagine Dragons     1
+Hozier              1
+Glass Animals       1
+Dua Lipa            1
+Charlie Puth        1
+Wiz Khalifa         1
+
+Average Track Duration: 3.71 minutes
+
+Top 5 Most Popular Tracks:
+     track_name     artist_name  popularity
+Blinding Lights      The Weeknd          98
+   Shape of You      Ed Sheeran          97
+      Tum Hi Ho    Arijit Singh          95
+       Believer Imagine Dragons          94
+      Sunflower     Post Malone          94
+
+Most Frequent Artist: Ed Sheeran
