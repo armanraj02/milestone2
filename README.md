@@ -114,4 +114,5 @@ The DAG is configured for automated execution at a daily cadence:
 
 ## 📈 Airflow DAG Execution Graph 
 
-![Airflow DAG Execution](C:\Users\HP\OneDrive\Desktop\aaaa\Screenshot 2026-03-08 153759.png)
+![Airflow DAG Execution](<img width="1919" height="1063" alt="Screenshot 2026-03-08 153759" src="https://github.com/user-attachments/assets/583a81cf-e6bf-440f-839a-5f5b67c3dae6" />
+)
